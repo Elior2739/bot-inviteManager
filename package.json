@@ -1,0 +1,19 @@
+{
+  "name": "invitemanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@extreme_hero/deeptype": "^1.0.1",
+    "discord.js": "^12.5.1",
+    "hastebin-gen": "^2.0.5",
+    "moment": "^2.29.1",
+    "quick.db": "^7.1.3",
+    "util": "^0.12.3"
+  }
+}
